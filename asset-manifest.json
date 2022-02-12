@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Pokemon-Pagination/static/css/main.6dda7ab2.css",
+    "main.js": "/React-Pokemon-Pagination/static/js/main.09945301.js",
+    "index.html": "/React-Pokemon-Pagination/index.html",
+    "main.6dda7ab2.css.map": "/React-Pokemon-Pagination/static/css/main.6dda7ab2.css.map",
+    "main.09945301.js.map": "/React-Pokemon-Pagination/static/js/main.09945301.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dda7ab2.css",
+    "static/js/main.09945301.js"
+  ]
+}

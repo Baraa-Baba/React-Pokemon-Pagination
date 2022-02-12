@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6dda7ab2.css","mappings":"AACA,KAGI,8CAA4D,CAD5D,0BAAmB,CAAnB,uBAAmB,CAAnB,kBAAmB,CADnB,eAGF","sources":["bg.css"],"sourcesContent":["\r\nhtml{\r\n    min-height:100%;\r\n    height: fit-content;\r\n    background: linear-gradient(45deg,rgb(233, 101, 123),yellow);\r\n  }"],"names":[],"sourceRoot":""}
